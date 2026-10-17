@@ -1,1 +1,1 @@
-FROM centos:7
+FROM docker.io/centos:centos7
